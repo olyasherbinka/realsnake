@@ -1,4 +1,3 @@
-
 package com.realsnake.achom;
 
 import android.app.Activity;
