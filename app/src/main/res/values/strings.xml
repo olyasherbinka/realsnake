@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Lucky Snake</string>
+    <string name="action_settings">Settings</string>
+    <string name="p_view">View</string>
+    <string name="dual">Dual</string>
+    <string name="new_game">New Game</string>
+    <string name="control">Control :</string>
+    <string name="sound">Sound :</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="score">Score</string>
+    <string name="highscore">Highscore:</string>
+    <string name="newHighscore">New Highscore</string>
+    <string name="facebook_app_id">517090748936783</string>
+    <string name="push">Lucky time!</string>
+    <string name="mode_normal">Normal</string>
+    <string name="mode_combined">combined</string>
+    <string name="mode_portal">Portals</string>
+    <string name="mode_no_border">No Border</string>
+    <string name="win">You won? OmegaLUL</string>
+    <string name="color_orange_red">orange-red</string>
+    <string name="color_lime_green">lime-green</string>
+    <string name="color_deep_sky_blue">deep-sky-blue</string>
+    <string name="color_medium_slate_blue">medium-slate-blue</string>
+    <string name="snake_control_info" translatable="false">swipe or click to control the snake</string>
+    <string name="button_settings_text" translatable="false">Settings</string>
+    <!-- Preference -->
+    <string name="game_settings" translatable="false">Game Settings</string>
+    <string name="portal_summary">Why play without?!</string>
+    <string name="portal_titel" translatable="false">Portals</string>
+    <string name="show_score_summary" translatable="false">:3</string>
+    <string name="show_score_title">Show score</string>
+    <string name="background_color_interval_summary">choose one of the custom background colors</string>
+    <string name="background_color_interval_title">Backgroundcolor</string>
+    <string name="appclication_settings_category">Application Settings</string>
+
+</resources>
